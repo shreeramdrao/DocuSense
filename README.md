@@ -1,7 +1,7 @@
 
-# SOFTDOC: Smart Documentation Assistant
+# DocuSense: Smart Documentation Assistant
 
-SOFTDOC is an advanced AI-powered documentation assistant that utilizes Retrieval-Augmented Generation (RAG) with LangChain, LLaMA 2, and Nomic Embed Text. It offers real-time query resolution, contextual awareness, and seamless integration for document understanding.
+DocuSense is an advanced AI-powered documentation assistant that utilizes Retrieval-Augmented Generation (RAG) with LangChain, LLaMA 2, and Nomic Embed Text. It offers real-time query resolution, contextual awareness, and seamless integration for document understanding.
 
 ---
 
@@ -25,7 +25,7 @@ Before setting up the project, ensure you have the following installed:
 
 ## Getting Started
 
-Follow these steps to set up and run SOFTDOC on your local machine:
+Follow these steps to set up and run DocuSense on your local machine:
 
 ### Step 1: Clone the Repository
 Start by cloning the repository to your local machine:
@@ -81,7 +81,7 @@ Launch the Streamlit application:
 streamlit run DocuSense_app.py
 ```
 
-This will start the SOFTDOC application, and you can access it via the local Streamlit URL displayed in your terminal.
+This will start the Docusense application, and you can access it via the local Streamlit URL displayed in your terminal.
 
 ---
 
@@ -109,12 +109,3 @@ DocuSense/
 ## Contributing
 Feel free to open issues or submit pull requests for enhancements, bug fixes, or additional features.
 
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Support
-For any issues or questions, contact [Shreerama D S](mailto:your-email@example.com) or open an issue in the repository.
